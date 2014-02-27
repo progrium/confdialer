@@ -10,4 +10,4 @@ I think they give you one for free.
 
 ## Step 3: Dial people into a conference
 
-	curl -u "<account_sid>:<auth_token>" https://confdialer.herokuapp.com/<number_to_dail_and_put_into_conference>
+	curl -u "<account_sid>:<auth_token>" https://confdialer.herokuapp.com/<number_to_dial>
